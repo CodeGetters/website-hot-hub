@@ -5,7 +5,7 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-03-05 02:15:56 +0800 -->
+<!-- 最后更新时间 2025-03-05 03:09:17 +0800 -->
 1. [8点1氪｜蜜雪冰城港股上市首日大涨43%；苹果客服回应用户“免密支付”被盗刷；深圳就业应届毕业生最高补贴10万](https://36kr.com/p/3191188260020610)
 1. [日产一代神车，突然宣布停产](https://36kr.com/p/3190629819228802)
 1. [HPV疫苗为什么卖不动了？](https://36kr.com/p/3190545939947909)
@@ -31,30 +31,31 @@
 1. [keep能否抓住AI救命稻草？](https://36kr.com/p/3191362912362881)
 1. [雷军曝光的小米新品，是在走联想手机老路么](https://36kr.com/p/3190680239984769)
 1. [165亿身价贵州铜仁首富，又要IPO了](https://36kr.com/p/3191301779300742)
-1. [中国影企上演全球同业协同，万达电影加大《哪吒2》澳洲排片](https://36kr.com/p/3191307524727432)
 1. [研发下一代智能存算芯片，「铭芯启睿」完成近亿元天使轮融资，多家战投出资丨36氪首发](https://36kr.com/p/3191661388980611)
+1. [中国影企上演全球同业协同，万达电影加大《哪吒2》澳洲排片](https://36kr.com/p/3191307524727432)
 1. [县城经销商2025“第一劫”：4500月薪，家门口的工作，留不住小镇青年](https://36kr.com/p/3191312989217415)
 1. [短剧出海薪资裂谷：10元时薪翻译，百万年薪编剧](https://36kr.com/p/3191403134378630)
 1. [罗森爆改街边夫妻小卖店](https://36kr.com/p/3191278104076674)
 1. [麦当劳变成没有情绪的中年人？增长乏力，对肯德基“贴脸开大”](https://36kr.com/p/3191634065918343)
 1. [不花一分钱掀起全民AI热，DeepSeek破圈的关键96小时](https://36kr.com/p/3190467447689345)
 1. [风雨特斯拉](https://36kr.com/p/3190670142464640)
-1. [遗憾，2位大佬双双离开腾讯：该换点“年轻新鲜”的脑子了](https://36kr.com/p/3190679475233412)
 1. [清华70后海归博士迎来一IPO，市值超100亿元｜专精快报](https://36kr.com/p/3190051468517510)
+1. [遗憾，2位大佬双双离开腾讯：该换点“年轻新鲜”的脑子了](https://36kr.com/p/3190679475233412)
 1. [Nike抢Lululemon女孩，Lululemon争Nike男孩](https://36kr.com/p/3191366055600772)
 1. [部分航线低至200元，你考虑错峰游吗？](https://36kr.com/p/3191331434308230)
-1. [零跑2025：智驾生死时速](https://36kr.com/p/3190672403057028)
-1. [“正义博主”带货，塌房是迟早的事](https://36kr.com/p/3191369649906057)
-1. [115家高奢酒店，为何排队进苏州？](https://36kr.com/p/3191214669795465)
-1. [三四线地产，还有活路](https://36kr.com/p/3191295495790981)
-1. [潞晨科技官宣停用DeepSeek背后：创始人受指责，投资人很无奈](https://36kr.com/p/3191220711268993)
-1. [Temu本地发货扩大至16国，盈利仍远？](https://36kr.com/p/3191367698834054)
 1. [梁文锋激励李想](https://36kr.com/p/3191854503436930)
+1. [“正义博主”带货，塌房是迟早的事](https://36kr.com/p/3191369649906057)
+1. [零跑2025：智驾生死时速](https://36kr.com/p/3190672403057028)
+1. [115家高奢酒店，为何排队进苏州？](https://36kr.com/p/3191214669795465)
+1. [潞晨科技官宣停用DeepSeek背后：创始人受指责，投资人很无奈](https://36kr.com/p/3191220711268993)
+1. [三四线地产，还有活路](https://36kr.com/p/3191295495790981)
+1. [Temu本地发货扩大至16国，盈利仍远？](https://36kr.com/p/3191367698834054)
 1. [菜鸟不单飞](https://36kr.com/p/3190495111127173)
 1. [一种比黄金涨幅更「猛」的消费品，出现了](https://36kr.com/p/3191081465258631)
+1. [月亏4亿 vs 毛利545%：MaaS商业模式的罗生门](https://36kr.com/p/3191862900564617)
+1. [氪星晚报｜菜鸟获“2024吴文俊科技进步奖”；36氪鸿蒙APP1.0版抢先上线，适配鸿蒙生态，商业资讯一触即达；全球首个人形机器人半程马拉松将在北京亦庄举办](https://36kr.com/p/3190397089751171)
 1. [继亲自写代码、加班到凌晨后，谷歌联创布林再喊话员工：每周工作60小时冲刺AGI](https://36kr.com/p/3191260639060355)
 1. [QuestMobile 2024中国移动互联网年度大报告：“数智化”驾“云”而来，12.57亿用户激活“AI奇点时刻”](https://36kr.com/p/3191307127906694)
-1. [月亏4亿 vs 毛利545%：MaaS商业模式的罗生门](https://36kr.com/p/3191862900564617)
 1. [巨头地位不稳，二弟三弟如何出头？](https://36kr.com/p/3190487124150659)
 1. [2nm芯片发布，剑指英伟达](https://36kr.com/p/3191242702676610)
 <!-- END 36KR -->
@@ -197,66 +198,69 @@
 ## 抖音
 
 <!-- BEGIN DOUYIN -->
-<!-- 最后更新时间 2025-03-05 02:15:59 +0800 -->
+<!-- 最后更新时间 2025-03-05 03:09:20 +0800 -->
 1. [怎么都要赴一场夜樱吧](https://www.douyin.com/hot/2017629)
 1. [春天当然要拍油菜花](https://www.douyin.com/hot/2015973)
 1. [去年立法工作取得新进展新成效](https://www.douyin.com/hot/2018196)
 1. [拥抱春天的户外风穿搭](https://www.douyin.com/hot/2016355)
 1. [给妈妈做个妇女节礼物](https://www.douyin.com/hot/2016742)
 1. [空军副司令王伟谈六代机](https://www.douyin.com/hot/2018118)
-1. [雷军回应双Ultra海外首秀](https://www.douyin.com/hot/2017148)
+1. [国新办发布芬太尼管控白皮书](https://www.douyin.com/hot/2017901)
 1. [中方宣布对美反制措施](https://www.douyin.com/hot/2017500)
 1. [中国发布超导量子计算原型机](https://www.douyin.com/hot/2018197)
-1. [国新办发布芬太尼管控白皮书](https://www.douyin.com/hot/2017901)
+1. [孙颖莎林诗栋继续保持世一](https://www.douyin.com/hot/2017399)
 1. [美国暂停向乌克兰输送武器](https://www.douyin.com/hot/2017173)
 1. [雷军建议优化新能源车牌设计](https://www.douyin.com/hot/2017361)
 1. [美国返还41件中国文物艺术品](https://www.douyin.com/hot/2017133)
-1. [孙颖莎林诗栋继续保持世一](https://www.douyin.com/hot/2017399)
-1. [多人造谣80后死亡率被查处](https://www.douyin.com/hot/2017266)
 1. [周鸿祎谈AI的普及](https://www.douyin.com/hot/2017406)
+1. [多人造谣80后死亡率被查处](https://www.douyin.com/hot/2017266)
 1. [克内克特：和东契奇打球超级轻松](https://www.douyin.com/hot/2017117)
-1. [冯远征谈流量演员如何发展](https://www.douyin.com/hot/2018154)
+1. [雷军回应双Ultra海外首秀](https://www.douyin.com/hot/2017148)
+1. [从经济学角度看航天发动机新突破](https://www.douyin.com/hot/2017370)
 1. [网易游戏发文致歉](https://www.douyin.com/hot/2017217)
-1. [挑战达摩进行曲](https://www.douyin.com/hot/2017657)
+1. [勇士上升至西部第六](https://www.douyin.com/hot/2018115)
 1. [王沪宁作全国政协常委会工作报告](https://www.douyin.com/hot/2017905)
 1. [难哄两情相悦的具象化](https://www.douyin.com/hot/2017934)
 1. [台媒曝王大陆涉嫌杀人未遂被抓](https://www.douyin.com/hot/2017853)
-1. [桑延温以凡一个比一个醋](https://www.douyin.com/hot/2017708)
 1. [何苏叶装醉撒娇求负责](https://www.douyin.com/hot/2017699)
-1. [智能手机没出现前](https://www.douyin.com/hot/2018103)
+1. [挑战达摩进行曲](https://www.douyin.com/hot/2017657)
 1. [难哄沙发醉酒戏是即兴的](https://www.douyin.com/hot/2017653)
+1. [桑延温以凡一个比一个醋](https://www.douyin.com/hot/2017708)
 1. [北上首播观后感](https://www.douyin.com/hot/2017553)
 1. [邓紫棋：好好生活保持积极正面爱](https://www.douyin.com/hot/2017452)
 1. [苹果发布新款iPad](https://www.douyin.com/hot/2018278)
 1. [刘浩存演妈妈了](https://www.douyin.com/hot/2017660)
-1. [三八节那些哄她开心的小礼物](https://www.douyin.com/hot/2017545)
-1. [似锦姜似纵火复仇全程高能](https://www.douyin.com/hot/2017427)
-1. [桑延温以凡从沙发抱到床上](https://www.douyin.com/hot/2017403)
-1. [各地妇女节文案上大分](https://www.douyin.com/hot/2017372)
+1. [美食不同意江浙沪人减肥](https://www.douyin.com/hot/2017647)
+1. [智能手机没出现前](https://www.douyin.com/hot/2018103)
 1. [欧文受伤](https://www.douyin.com/hot/2017365)
-1. [北上胡军欧豪父子情](https://www.douyin.com/hot/2017206)
 1. [王宝强：疑似失去所有的力气](https://www.douyin.com/hot/2016491)
 1. [皇马vs马竞](https://www.douyin.com/hot/2017451)
 1. [用格桑花打开春天](https://www.douyin.com/hot/2017431)
-1. [蓝战非的非洲vlog](https://www.douyin.com/hot/2017780)
+1. [似锦姜似纵火复仇全程高能](https://www.douyin.com/hot/2017427)
+1. [桑延温以凡从沙发抱到床上](https://www.douyin.com/hot/2017403)
+1. [各地妇女节文案上大分](https://www.douyin.com/hot/2017372)
+1. [三八节那些哄她开心的小礼物](https://www.douyin.com/hot/2017545)
+1. [奥斯卡已抵达迪拜](https://www.douyin.com/hot/2017114)
 1. [沈惜凡像一束光照亮了何苏叶](https://www.douyin.com/hot/2017153)
-1. [桑延这身材拿什么输](https://www.douyin.com/hot/2018120)
-1. [想让他成为大家口中幸福的人](https://www.douyin.com/hot/2017055)
-1. [美食不同意江浙沪人减肥](https://www.douyin.com/hot/2017647)
-1. [小米不锈钢直饮杯开箱](https://www.douyin.com/hot/2017079)
 1. [这首座位越听越上头](https://www.douyin.com/hot/2016304)
+1. [小米不锈钢直饮杯开箱](https://www.douyin.com/hot/2017079)
+1. [蓝战非的非洲vlog](https://www.douyin.com/hot/2017780)
+1. [北上胡军欧豪父子情](https://www.douyin.com/hot/2017206)
+1. [难哄reaction](https://www.douyin.com/hot/2018222)
+1. [北上复刻我的童年](https://www.douyin.com/hot/2017487)
+1. [想让他成为大家口中幸福的人](https://www.douyin.com/hot/2017055)
+1. [冯远征谈流量演员如何发展](https://www.douyin.com/hot/2018154)
+1. [桑延这身材拿什么输](https://www.douyin.com/hot/2018120)
 1. [中年女人的OOTD也很酷](https://www.douyin.com/hot/2017389)
 1. [是青春里满分的隔壁男同学](https://www.douyin.com/hot/2016050)
 1. [你一句瘦下来包帅的](https://www.douyin.com/hot/2016217)
 1. [灰熊连续三场被对手绝杀](https://www.douyin.com/hot/2017806)
 1. [独行侠自媒体怒喷球队总经理](https://www.douyin.com/hot/2017919)
 1. [小卡拍照挑战](https://www.douyin.com/hot/2018020)
-1. [北上复刻我的童年](https://www.douyin.com/hot/2017487)
 1. [雪季封板前再滑一次](https://www.douyin.com/hot/2016761)
 1. [中国发起首例反规避调查](https://www.douyin.com/hot/2017983)
 1. [TYLOO苦战三局1:2不敌GL](https://www.douyin.com/hot/2017351)
 1. [谢锋回应中美关税问题](https://www.douyin.com/hot/2018041)
-1. [勇士上升至西部第六](https://www.douyin.com/hot/2018115)
 1. [佛系少女舞蹈挑战](https://www.douyin.com/hot/2017067)
 <!-- END DOUYIN -->
 
@@ -265,7 +269,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-03-05 02:16:01 +0800 -->
+<!-- 最后更新时间 2025-03-05 03:09:22 +0800 -->
 1. [Trae国内版发布，中国首款AI 原生IDE 正式上线，配置Doubao-1.5-pro，支持切换满血版DeepSeek 模型](https://juejin.cn/post/7477044880641409078)
 1. [2025防失业预警：不会用DeepSeek-RAG建知识库的人正在被淘汰](https://juejin.cn/post/7476780955920777270)
 1. [💯💯💯 金三银四，我们上线了一个免费、有深度的八股文网站！](https://juejin.cn/post/7477541534637375527)
@@ -323,7 +327,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-03-05 02:15:55 +0800 -->
+<!-- 最后更新时间 2025-03-05 03:09:16 +0800 -->
 1. [在 2025 年重新体验 OS X Mavericks](https://sspai.com/post/96610)
 1. [新玩意 · 特别篇 | 开工大半个月，这些是我们的办公好「搭子」](https://sspai.com/post/96744)
 1. [为了能更好地看电视，我把树莓派改造成了电视盒子](https://sspai.com/post/96764)
@@ -372,7 +376,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-03-05 02:16:02 +0800 -->
+<!-- 最后更新时间 2025-03-05 03:09:23 +0800 -->
 1. [去有花的地方](https://weread.qq.com/web/bookDetail/276322b0813ab8f5dg011ca6)
 1. [在菜场，在人间](https://weread.qq.com/web/bookDetail/0cc327a0813ab8796g015cb0)
 1. [蒲公英酒](https://weread.qq.com/web/bookDetail/a0532bb0813ab9a43g011b3a)
