@@ -5,10 +5,10 @@
 ## 36Kr
 
 <!-- BEGIN 36KR -->
-<!-- 最后更新时间 2025-03-16 03:08:13 +0800 -->
+<!-- 最后更新时间 2025-03-16 04:11:32 +0800 -->
 1. [9点1氪丨抖音辟谣HR与员工互殴；梁建章建议每孩一次性补贴10万元；特斯拉否认与百度合作智驾](https://36kr.com/p/3206236454438019)
-1. [理想有千亿钞能力，但纯电学费还得交](https://36kr.com/p/3206227546178432)
 1. [为什么有人喜欢不断地买充电头？](https://36kr.com/p/3207000604050560)
+1. [理想有千亿钞能力，但纯电学费还得交](https://36kr.com/p/3206227546178432)
 1. [1元喝美式？南京15平小店用这招月入10万](https://36kr.com/p/3201122323889794)
 1. [郑渊洁都承认写不过AI，人类这就认输了？](https://36kr.com/p/3206827665818759)
 1. [股价翻倍后，蜜雪冰城更难“追”了](https://36kr.com/p/3201735455295873)
@@ -28,8 +28,8 @@
 1. [3天学会的AI课程，正在成为老年人的新“保健品”？](https://36kr.com/p/3206782014432519)
 1. [杭州“蛇咖”上线一天就下架！咖啡重口味创新该鼓励吗？](https://36kr.com/p/3206844722217858)
 1. [阿里都带不动的百货商场，还能赢回人心吗？](https://36kr.com/p/3206097226097920)
-1. [中国企业在沙特：开拓之路与经验教训](https://36kr.com/p/3206848985449603)
 1. [中美关税博弈，谁会是最终受害者？](https://36kr.com/p/3206880892290179)
+1. [中国企业在沙特：开拓之路与经验教训](https://36kr.com/p/3206848985449603)
 1. [芯片/模组推动AI设备爆发，应用落地是2025最可期的端侧AI故事](https://36kr.com/p/3206766851392642)
 1. [一篇全网流量百万的研报是怎么生产的？](https://36kr.com/p/3206928504865928)
 1. [抢购美元理财：额度趋紧，收益率低至3.3%](https://36kr.com/p/3206865107518340)
@@ -186,56 +186,60 @@
 ## 抖音
 
 <!-- BEGIN DOUYIN -->
-<!-- 最后更新时间 2025-03-16 03:08:16 +0800 -->
+<!-- 最后更新时间 2025-03-16 04:11:37 +0800 -->
 1. [315晚会](https://www.douyin.com/hot/2029851)
 1. [美国确认将韩国列入“敏感国家”](https://www.douyin.com/hot/2029928)
 1. [四维高景三号02星成功发射](https://www.douyin.com/hot/2029870)
-1. [315曝光骚扰电话产业链](https://www.douyin.com/hot/2030359)
 1. [华为鸿蒙新形态手机预测](https://www.douyin.com/hot/2029977)
+1. [李湘前夫李厚霖否认家暴](https://www.douyin.com/hot/2029701)
 1. [借贷宝8年被央视点名2次](https://www.douyin.com/hot/2030468)
 1. [翻新卫生巾企业负责人被控制](https://www.douyin.com/hot/2030447)
 1. [315曝光名单](https://www.douyin.com/hot/2030100)
 1. [泽连斯基组建和平谈判代表团](https://www.douyin.com/hot/2030394)
 1. [一次性内裤暴雷涉事企业被查封](https://www.douyin.com/hot/2030449)
-1. [315曝光电子签高利贷](https://www.douyin.com/hot/2030333)
 1. [啄木鸟维修道歉](https://www.douyin.com/hot/2030379)
 1. [一次性内裤爆雷](https://www.douyin.com/hot/2030284)
-1. [徐艺洋黄子韬来给北京大雪助个兴](https://www.douyin.com/hot/2030112)
 1. [乌啦啦自曝本职工作是活动策划](https://www.douyin.com/hot/2029966)
-1. [李湘前夫李厚霖否认家暴](https://www.douyin.com/hot/2029701)
+1. [徐艺洋黄子韬来给北京大雪助个兴](https://www.douyin.com/hot/2030112)
+1. [315问题车展](https://www.douyin.com/hot/2029565)
+1. [王力宏南昌演唱会](https://www.douyin.com/hot/2029055)
 1. [五金市场公然售卖非标电线电缆](https://www.douyin.com/hot/2030383)
 1. [好像那是一个秋天](https://www.douyin.com/hot/2030399)
-1. [315问题车展](https://www.douyin.com/hot/2029565)
 1. [白鹿角色版转场火了](https://www.douyin.com/hot/2029211)
+1. [荧光之夜霸总们各有各的喜感](https://www.douyin.com/hot/2029865)
 1. [虞书欣林一现场跳企鹅舞](https://www.douyin.com/hot/2029817)
 1. [一口气看懂金秀贤事件来龙去脉](https://www.douyin.com/hot/2029165)
-1. [低配版汽车人转场来了](https://www.douyin.com/hot/2029922)
+1. [赚钱的意义就是给爸妈买东西](https://www.douyin.com/hot/2029601)
 1. [市监部门深夜查处智优擎公司](https://www.douyin.com/hot/2030435)
-1. [一年一度春日赏花地图](https://www.douyin.com/hot/2029635)
-1. [王力宏南昌演唱会](https://www.douyin.com/hot/2029055)
-1. [手机抽奖公司号称一天流水20亿](https://www.douyin.com/hot/2030364)
-1. [荧光之夜霸总们各有各的喜感](https://www.douyin.com/hot/2029865)
-1. [哪吒2出海算得上成功吗](https://www.douyin.com/hot/2030158)
-1. [我的3月春日金曲](https://www.douyin.com/hot/2029030)
-1. [Angelababy资助徐玉坤](https://www.douyin.com/hot/2029684)
-1. [我的差评女友开播](https://www.douyin.com/hot/2029622)
-1. [王心凌成都演唱会](https://www.douyin.com/hot/2029050)
 1. [Jennie首尔演唱会观众席好多艺人](https://www.douyin.com/hot/2030310)
+1. [哪吒2出海算得上成功吗](https://www.douyin.com/hot/2030158)
+1. [低配版汽车人转场来了](https://www.douyin.com/hot/2029922)
+1. [一年一度春日赏花地图](https://www.douyin.com/hot/2029635)
+1. [IU新剧小儿子去世的亲情刀](https://www.douyin.com/hot/2029466)
+1. [我的3月春日金曲](https://www.douyin.com/hot/2029030)
+1. [掌握模仿派大星的诀窍了](https://www.douyin.com/hot/2030174)
+1. [这些霸王条款您有权说不](https://www.douyin.com/hot/2029638)
+1. [这首城北的花和春天太搭了](https://www.douyin.com/hot/2029985)
+1. [Angelababy资助徐玉坤](https://www.douyin.com/hot/2029684)
 1. [苦尽柑来中的女性托举](https://www.douyin.com/hot/2029463)
 1. [别叫我达芬奇反差转场](https://www.douyin.com/hot/2028348)
-1. [这首城北的花和春天太搭了](https://www.douyin.com/hot/2029985)
-1. [IU新剧小儿子去世的亲情刀](https://www.douyin.com/hot/2029466)
+1. [Rude Boy舞蹈挑战](https://www.douyin.com/hot/2029574)
+1. [尝一口春天的味道](https://www.douyin.com/hot/2028400)
+1. [Mr Doodle手把手教你涂鸦](https://www.douyin.com/hot/2029669)
+1. [姚安娜为华为新品代言](https://www.douyin.com/hot/2029791)
+1. [春夏平价高颜值衣服合集](https://www.douyin.com/hot/2030372)
 1. [桑延六年的爱被温以凡看见](https://www.douyin.com/hot/2029969)
 1. [时隔多年早已褪去稚嫩](https://www.douyin.com/hot/2028429)
-1. [姚安娜为华为新品代言](https://www.douyin.com/hot/2029791)
-1. [尝一口春天的味道](https://www.douyin.com/hot/2028400)
-1. [赚钱的意义就是给爸妈买东西](https://www.douyin.com/hot/2029601)
-1. [北上什么时候甜](https://www.douyin.com/hot/2030098)
-1. [Mr Doodle手把手教你涂鸦](https://www.douyin.com/hot/2029669)
-1. [付航紧急撤回一个领导模仿](https://www.douyin.com/hot/2029247)
-1. [Rude Boy舞蹈挑战](https://www.douyin.com/hot/2029574)
-1. [掌握模仿派大星的诀窍了](https://www.douyin.com/hot/2030174)
+1. [我的差评女友开播](https://www.douyin.com/hot/2029622)
 1. [你做动作我来配音](https://www.douyin.com/hot/2028376)
+1. [王心凌成都演唱会](https://www.douyin.com/hot/2029050)
+1. [原神5.5卡池抽取建议](https://www.douyin.com/hot/2029519)
+1. [付航紧急撤回一个领导模仿](https://www.douyin.com/hot/2029247)
+1. [一个碳纤维机盖为何要等三个月](https://www.douyin.com/hot/2029920)
+1. [315曝光骚扰电话产业链](https://www.douyin.com/hot/2030359)
+1. [315曝光电子签高利贷](https://www.douyin.com/hot/2030333)
+1. [手机抽奖公司号称一天流水20亿](https://www.douyin.com/hot/2030364)
+1. [北上什么时候甜](https://www.douyin.com/hot/2030098)
 1. [315晚会曝光翻新卫生巾](https://www.douyin.com/hot/2030264)
 1. [315曝光保水虾仁](https://www.douyin.com/hot/2030321)
 1. [专家解读315晚会被曝光案例](https://www.douyin.com/hot/2030274)
@@ -253,7 +257,7 @@
 ## 掘金
 
 <!-- BEGIN JUEJIN -->
-<!-- 最后更新时间 2025-03-16 03:08:17 +0800 -->
+<!-- 最后更新时间 2025-03-16 04:11:40 +0800 -->
 1. [mybatis---MybatisPlus自定义insertBatchSomeColumn实现真正批量插入](https://juejin.cn/post/7481797018781515803)
 1. [代码写到一半电脑死机？Trae 的救命功能今天必须安利](https://juejin.cn/post/7480854376316174390)
 1. [🔥 用过 UnoCSS 之后，为什么我还是选择了 Tailwind CSS？](https://juejin.cn/post/7480854376316207158)
@@ -314,7 +318,7 @@
 ## 少数派
 
 <!-- BEGIN SSPAI -->
-<!-- 最后更新时间 2025-03-16 03:08:12 +0800 -->
+<!-- 最后更新时间 2025-03-16 04:11:31 +0800 -->
 1. [派评 | 近期值得关注的 App](https://sspai.com/post/97194)
 1. [本周看什么 | 最近值得一看的 9 部作品](https://sspai.com/post/97094)
 1. [春节自驾游：我看到了父母与现代性的距离](https://sspai.com/post/96073)
@@ -362,7 +366,7 @@
 ## 微信读书
 
 <!-- BEGIN WEREAD -->
-<!-- 最后更新时间 2025-03-16 03:08:18 +0800 -->
+<!-- 最后更新时间 2025-03-16 04:11:42 +0800 -->
 1. [金瓶梅（白话全集）](https://weread.qq.com/web/bookDetail/b0b32130813ab9c34g016c1e)
 1. [富足人生指南：用十年时间实现富而喜悦](https://weread.qq.com/web/bookDetail/1c832fa0813ab9bd6g015405)
 1. [山谷微风](https://weread.qq.com/web/bookDetail/ef3327d0813ab9c1bg0120a3)
